@@ -1,0 +1,53 @@
+body {
+    background-color: #CFEFEE
+}
+.dottedLine {
+    margin: 20px auto;
+    height: 10px;
+    width: 90%;
+    background-image: url("../images/homepage/dotted_line_44x9.png");
+    background-repeat: repeat-x;
+}
+
+/*.nav-justified li a {
+    background-image: none;
+    background-color: #F3CECD;
+    color: #6F1549;
+    border: 0;
+    border-radius: 0;
+}
+
+.nav-justified {
+    border: 0;
+    border-radius: 0;
+}*/
+
+.nav-justified li a {
+    background-image: none;
+    border-radius: 0;
+    color: #6f1549;
+    border: 0;
+    background-color: #F3CECD;
+}
+
+.nav-justified li {
+    border-radius: 0;
+    background-image: none;
+}
+
+.nav-justified {
+    border: none;
+    border-radius: 0;
+    background-image: none;
+    background-color: #F3CECD;
+}
+
+.nav-justified ul {
+    border-radius: 0;
+    background-image: none;
+}
+
+nav {
+    border-radius: 0;
+    background-image: none;
+}
